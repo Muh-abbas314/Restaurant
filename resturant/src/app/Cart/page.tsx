@@ -8,7 +8,7 @@ export default function CartPage()
     return(<>
     <div className="h-[calc(100vh-6rem)] md:h-[calc(100vh-9rem)] flex flex-col lg:flex-row  text-red-500">
         <div className="h-1/2 p-4 flex flex-col justify-center 
-                         lg:h-full w-2/3">
+                         lg:h-full lg:w-2/3">
             <div className=" flex items-center justify-between mb-3 overflow-scroll border">
                 <Image className="" src='/temporary/p1.png' width={100} height={100} alt=""/>
                 <div className="">
